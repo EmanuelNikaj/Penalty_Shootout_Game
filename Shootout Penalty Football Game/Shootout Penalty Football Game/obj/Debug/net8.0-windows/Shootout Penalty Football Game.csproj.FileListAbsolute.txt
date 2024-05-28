@@ -1,0 +1,17 @@
+C:\Users\emanu\source\repos\Shootout Penalty Football Game\Shootout Penalty Football Game\bin\Debug\net8.0-windows\Shootout Penalty Football Game.exe
+C:\Users\emanu\source\repos\Shootout Penalty Football Game\Shootout Penalty Football Game\bin\Debug\net8.0-windows\Shootout Penalty Football Game.deps.json
+C:\Users\emanu\source\repos\Shootout Penalty Football Game\Shootout Penalty Football Game\bin\Debug\net8.0-windows\Shootout Penalty Football Game.runtimeconfig.json
+C:\Users\emanu\source\repos\Shootout Penalty Football Game\Shootout Penalty Football Game\bin\Debug\net8.0-windows\Shootout Penalty Football Game.dll
+C:\Users\emanu\source\repos\Shootout Penalty Football Game\Shootout Penalty Football Game\bin\Debug\net8.0-windows\Shootout Penalty Football Game.pdb
+C:\Users\emanu\source\repos\Shootout Penalty Football Game\Shootout Penalty Football Game\obj\Debug\net8.0-windows\Shootout_Penalty_Football_Game.Form1.resources
+C:\Users\emanu\source\repos\Shootout Penalty Football Game\Shootout Penalty Football Game\obj\Debug\net8.0-windows\Shootout_Penalty_Football_Game.Properties.Resources.resources
+C:\Users\emanu\source\repos\Shootout Penalty Football Game\Shootout Penalty Football Game\obj\Debug\net8.0-windows\Shootout Penalty Football Game.csproj.GenerateResource.cache
+C:\Users\emanu\source\repos\Shootout Penalty Football Game\Shootout Penalty Football Game\obj\Debug\net8.0-windows\Shootout Penalty Football Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emanu\source\repos\Shootout Penalty Football Game\Shootout Penalty Football Game\obj\Debug\net8.0-windows\Shootout Penalty Football Game.AssemblyInfoInputs.cache
+C:\Users\emanu\source\repos\Shootout Penalty Football Game\Shootout Penalty Football Game\obj\Debug\net8.0-windows\Shootout Penalty Football Game.AssemblyInfo.cs
+C:\Users\emanu\source\repos\Shootout Penalty Football Game\Shootout Penalty Football Game\obj\Debug\net8.0-windows\Shootout Penalty Football Game.csproj.CoreCompileInputs.cache
+C:\Users\emanu\source\repos\Shootout Penalty Football Game\Shootout Penalty Football Game\obj\Debug\net8.0-windows\Shootout Penalty Football Game.dll
+C:\Users\emanu\source\repos\Shootout Penalty Football Game\Shootout Penalty Football Game\obj\Debug\net8.0-windows\refint\Shootout Penalty Football Game.dll
+C:\Users\emanu\source\repos\Shootout Penalty Football Game\Shootout Penalty Football Game\obj\Debug\net8.0-windows\Shootout Penalty Football Game.pdb
+C:\Users\emanu\source\repos\Shootout Penalty Football Game\Shootout Penalty Football Game\obj\Debug\net8.0-windows\Shootout Penalty Football Game.genruntimeconfig.cache
+C:\Users\emanu\source\repos\Shootout Penalty Football Game\Shootout Penalty Football Game\obj\Debug\net8.0-windows\ref\Shootout Penalty Football Game.dll
